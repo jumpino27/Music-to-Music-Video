@@ -1,0 +1,5 @@
+{
+  "name": "AI Music Video Prompt Generator",
+  "description": "Upload a song and an image, provide the lyrics, and let AI generate detailed video prompts for your music video, segment by segment.",
+  "requestFramePermissions": []
+}
